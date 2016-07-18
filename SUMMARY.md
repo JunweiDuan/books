@@ -1,6 +1,6 @@
 # Summary
 
-* 写在前面的话
+* [写在前面的话](introduction.md)
 * [第1章 我们遇到问题了](chapter1/README.md)
 * [第2章 规则，又见规则](chapter2/README.md)
 * 第3章 日志，不会记日志的程序员不是好码农
